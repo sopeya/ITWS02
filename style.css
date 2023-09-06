@@ -1,0 +1,85 @@
+@font-face{
+	font-family: 'Alef-Regular';
+	src: url(Alef-Regular.tff) format('truetype');
+}
+
+html, body{
+font-family: Goudy Old Style;
+margin: 0;
+}
+
+header{
+background-color: #DAD3C9;
+padding: 40px;
+text-align: center;
+}
+
+h1{
+font-size: 90px;
+color: #35271E;
+}
+
+header img{
+border-radius: 174px;
+width: 300px;
+border: 25px solid #4E3622;
+}
+
+.content{
+max-width: 900px;
+margin: 0 auto;
+padding: 0 20px;
+}
+
+.comrades{
+max-width: 100%;
+border-radius:70px;
+}
+
+h2{
+font-family: Alef-Regular;
+color: #35271E;
+}
+
+p{
+font-family: Alef-Regular;
+color: #35271E;
+}
+
+p.caption{
+font-size: 17px;
+color: #4E3622;
+font-style: italic;
+}
+
+ul{
+color: #35271E;
+font-family: Alef-Regular;
+list-style: none ;
+padding: 0;
+margin: 15;
+}
+ 
+ul li{
+list-style-type: none;
+}
+
+a{
+color: #35271E;
+text-decoration: none;
+}
+
+footer{
+margin-top: 20px;
+padding: 30px 20px;
+background-color: #DAD3C9;
+}
+
+footer ul{
+text-align: center;
+}
+
+footer ul li{
+display: inline-block;
+margin: 0 4px;
+}
