@@ -52,6 +52,12 @@ color: #4E3622;
 font-style: italic;
 }
 
+.friends img{
+border-radius: 174px;
+width: 200px;
+border: 25px solid #4E3622;
+}
+
 ul{
 color: #35271E;
 font-family: Alef-Regular;
@@ -66,7 +72,7 @@ list-style-type: none;
 
 a{
 color: #35271E;
-text-decoration: none;
+font-style: bold;
 }
 
 footer{
