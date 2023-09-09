@@ -1,13 +1,3 @@
-@font-face{
-	font-family: 'Alef-Regular';
-	src: url(Alef-Regular.tff);
-}
-
-@font-face{
-	font-family: 'Goudy Old Style Bold';
-	src: url(Goudy Old Style Bold.ttf);
-}
-
 html, body{
 font-family: Goudy Old Style Bold;
 margin: 0;
@@ -42,12 +32,12 @@ border-radius:70px;
 }
 
 h2{
-font-family: Alef-Regular;
+font-family: Alef;
 color: #35271E;
 }
 
 p{
-font-family: Alef-Regular;
+font-family: Alef;
 color: #35271E;
 }
 
@@ -65,7 +55,7 @@ border: 20px solid #4E3622;
 
 ul{
 color: #35271E;
-font-family: Alef-Regular;
+font-family: Alef;
 list-style: none ;
 padding: 0;
 margin: 15;
