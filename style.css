@@ -1,11 +1,11 @@
 @font-face{
 	font-family: 'Alef-Regular';
-	src: url(/Alef-Regular.tff);
+	src: url(https://Alef-Regular.tff);
 }
 
 @font-face{
 	font-family: 'Goudy Old Style Bold';
-	src: url(/Goudy Old Style Bold.ttf);
+	src: url(https://Goudy Old Style Bold.ttf);
 }
 
 html, body{
