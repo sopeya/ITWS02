@@ -3,6 +3,11 @@
 	src: url(Alef-Regular.tff) format('truetype');
 }
 
+@font-face{
+	font-family: 'Goudy Old Style Bold';
+	src: url(Goudy Old Style Bold.ttf) format('truetype');
+}
+
 html, body{
 font-family: Goudy Old Style Bold;
 margin: 0;
