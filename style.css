@@ -1,5 +1,15 @@
+@font-face{
+	font-family: 'Alef-Regular';
+	src: url(Alef-Regular.tff);
+}
+
+@font-face{
+	font-family: 'Goudy Old Style Bold';
+	src: url(Goudy Old Style Bold.ttf);
+}
+
 html, body{
-font-family:  Times New Roman;
+font-family: Goudy Old Style Bold;
 margin: 0;
 }
 
@@ -32,12 +42,12 @@ border-radius:70px;
 }
 
 h2{
-font: Palatino;
+font-family: Alef-Regular;
 color: #35271E;
 }
 
 p{
-font-family: Alef;
+font-family: Alef-Regular;
 color: #35271E;
 }
 
@@ -50,12 +60,12 @@ font-style: italic;
 .friends img{
 border-radius: 174px;
 width: 200px;
-border: 20px solid #4E3622;
+border: 15px solid #4E3622;
 }
 
 ul{
 color: #35271E;
-font-family: Alef;
+font-family: Alef-Regular;
 list-style: none ;
 padding: 0;
 margin: 15;
