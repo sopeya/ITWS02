@@ -1,5 +1,5 @@
 html, body{
-font-family: Palatino, Cascadia Code;
+font-family: Palatino, OCA-R Extended;
 margin: 0;
 }
 
@@ -32,12 +32,12 @@ border-radius:70px;
 }
 
 h2{
-font-family: Cascadia Code;
+font-family: OCA-R Extended;
 color: #35271E;
 }
 
 p{
-font-family: Cascadia Code;
+font-family: OCA-R Extended;
 color: #35271E;
 }
 
@@ -55,7 +55,7 @@ border: 8px solid #4E3622;
 
 ul{
 color: #35271E;
-font-family: Cascadia Code;
+font-family: OCA-R Extended;
 list-style: none ;
 padding: 0;
 margin: 15;
