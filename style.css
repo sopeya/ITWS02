@@ -1,5 +1,5 @@
 html, body{
-font-family: Palatino, OCA-R Extended;
+font-family: Palatino, Serif;
 margin: 0;
 }
 
@@ -32,12 +32,12 @@ border-radius:70px;
 }
 
 h2{
-font-family: OCA-R Extended;
+font-family: Palatino;
 color: #35271E;
 }
 
 p{
-font-family: OCA-R Extended;
+font-family: Palatino;
 color: #35271E;
 }
 
@@ -55,7 +55,7 @@ border: 8px solid #4E3622;
 
 ul{
 color: #35271E;
-font-family: OCA-R Extended;
+font-family: Palatino;
 list-style: none ;
 padding: 0;
 margin: 15;
@@ -63,6 +63,10 @@ margin: 15;
  
 ul li{
 list-style-type: none;
+}
+
+li a{
+font-family: Palatino;
 }
 
 a{
