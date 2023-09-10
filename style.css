@@ -57,7 +57,7 @@ ul{
 color: #35271E;
 font-family: Palatino;
 list-style: none ;
-padding: 0;
+padding: 20;
 margin: 15;
 }
  
@@ -69,7 +69,6 @@ li a{
 font-family: Palatino;
 color: #35271E;
 font-style: bold;
-padding: 20px;
 }
 
 footer{
