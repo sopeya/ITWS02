@@ -51,13 +51,14 @@ font-style: italic;
 border-radius: 174px;
 width: 200px;
 border: 8px solid #4E3622;
+padding: 20;
 }
 
 ul{
 color: #35271E;
 font-family: Palatino;
 list-style: none ;
-padding: 20;
+padding: 0;
 margin: 15;
 }
  
