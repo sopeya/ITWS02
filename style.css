@@ -67,11 +67,9 @@ list-style-type: none;
 
 li a{
 font-family: Palatino;
-}
-
-a{
 color: #35271E;
 font-style: bold;
+padding-top: 15px;
 }
 
 footer{
