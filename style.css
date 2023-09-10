@@ -28,7 +28,8 @@ padding: 0 20px;
 
 .comrades{
 max-width: 100%;
-border-radius:70px solid #4E3622;
+border-radius:70px;
+border: 15px solid #4E3622;
 }
 
 h2{
